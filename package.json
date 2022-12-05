@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-react-native-a11y",
-	"version": "3.3.0",
+	"version": "3.4.0",
 	"description": "React Native specific accessibility linting rules.",
 	"keywords": [
 		"eslint",
@@ -10,10 +10,10 @@
 		"accessibility",
 		"react-native"
 	],
-	"author": "JP Driver <jp.driver@formidable.com>",
+	"author": "JP Driver <jp.driver@formidable.com> + Jake Motta",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FormidableLabs/eslint-plugin-react-native-a11y"
+		"url": "https://gitlab.ea.com/project-brooklyn/frontend/eslint-plugin-react-native-a11y"
 	},
 	"main": "lib/index.js",
 	"scripts": {
