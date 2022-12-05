@@ -93,6 +93,7 @@ For more information on configuring behaviour of an individual rule, please refe
 ### Android
 - [has-valid-accessibility-live-region](docs/rules/has-valid-accessibility-live-region.md): Enforce `accessibilityLiveRegion` prop values must be valid
 - [has-valid-important-for-accessibility](docs/rules/has-valid-important-for-accessibility.md): Enforce `importantForAccessibility` property value is valid
+- [has-valid-testid](docs/rules/has-valid-testid.md): Require  for all touchables
 
 ### Rule Options
 
